@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Javascript Converter Application</title>
+	<link rel="stylesheet" href="style2.css">
+</head>
+<body>
+<h1 align="center">ICT Exercise#3</h1>
+	
+
+
+
+
+		<body bgcolor="#ADD8E6">
+
+		
+	</select>
+
+
+	<div class="converter-body">
+
+		<h1 class="converter-title">Converter</h1>
+
+		<input type="text" placeholder="Input" id="input">
+		<span>=</span>
+		<input type="text" placeholder="Result" id="result">
+
+		<select id="inputType">
+			<option value="Feet">Feet</option>
+			<option value="Centimeter">Centimeter</option>
+		</select>
+
+		<select id="resultType">
+			<option value="Feet">Feet</option>
+			<option value="Centimeter">Centimeter</option>
+		</select>
+
+
+
+	</div>
+
+
+
+	<script src="main2.js"></script>
+</body>
+</html>
